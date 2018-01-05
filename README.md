@@ -6,13 +6,13 @@ Create Markov chains from Facebook messages and simulate conversations. This was
 * BeautifulSoup
 
 ```
-pip install BeautifulSoup
+pip install beautifulsoup4
 ```
 
 * Markovify
 
 ```
-pip install Markovify
+pip install markovify
 ```
 
 * A downloaded copy of your Facebook data, generated from [the link on the Settings page](https://www.facebook.com/settings)
